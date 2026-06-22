@@ -8,7 +8,7 @@
   "stack": "container",
 
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {Phoenix~SummitBreeze
       "description": "Enter Your Session ID Which You Received From The Pairing Code",
       "required": true
     },
